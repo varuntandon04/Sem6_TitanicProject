@@ -14,7 +14,7 @@ It focuses on the survival prediction of the Titanic disaster, based on the [Kag
 
 #### Valuation of the Analysis:
 * K-folds cross validation to valuate results locally
-* Output the results from the IPython Notebook to Kaggle
+
 
 
 Note: This project was based on Agconti's submission of the same.
